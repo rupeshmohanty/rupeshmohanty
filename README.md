@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a ReactJS.
-- 🌱 I’m currently learning MERN Stack.
+- 🔭 I’m currently working on Sprintboot.
+- 🌱 I’m currently learning Java and MongoDB.
 - 👯 I’m looking to collaborate on Web development Projects.
 - 💬 Ask me about Backend development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rupesh-chandra-mohanty/) || [Gmail](mailto:rupeshmohanty67@gmail.com)
