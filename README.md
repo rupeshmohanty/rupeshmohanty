@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sprintboot.
+- 🔭 I’m currently working on Springboot.
 - 🌱 I’m currently learning Java and MongoDB.
 - 👯 I’m looking to collaborate on Web development Projects.
 - 💬 Ask me about Backend development
