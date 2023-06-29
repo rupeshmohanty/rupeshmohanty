@@ -29,7 +29,7 @@ I love the entire process of developing the backend logic of websites. I love th
 
 ## 💼 Technical Skills
 
-![]([https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB](https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png))
+![](https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
